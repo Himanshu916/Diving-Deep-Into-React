@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 // What
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("h1", { id: "heading" }, "Himanshu Rana here"),
